@@ -31,7 +31,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4FiE764.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In this video, I will be creating new agents in OS ticket. I will be establishing new SLA requirements, and creating new help topics for ticketing system. Last, I will open new tickets created by new user accounts, login the new Admin account and review the new tickets, to address/resolve tickets.
