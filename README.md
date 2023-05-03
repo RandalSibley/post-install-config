@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.  In this video, I will be creating new agents in OS ticket. I will be establishing new SLA requirements, and creating new help topics for ticketing system. Last, I will open new tickets created by new user accounts, login the new Admin account and review the new tickets, to address/resolve tickets.<br />
 
 
 <h2>Video Demonstration</h2>
@@ -24,9 +24,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Creating new help topics for ticketing system
 - Establishing SLA requirements for ticketing system
-- Item 3
-- Item 4
-- Item 5
+- Creating new agents in OS ticket
+- Open new tickets created by new user accounts
+- Address/resolve new tickets from Admin account
 
 <h2>Configuration Steps</h2>
 
